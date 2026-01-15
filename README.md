@@ -25,7 +25,7 @@ A Python automated scraping tool designed to extract scholarship opportunities f
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone tus2014ar/Scholar-Swipe-Web-Scraping-Project
     cd scholarship_scraper
     ```
 
@@ -62,3 +62,6 @@ The script will:
 - `requirements.txt`: Python package dependencies.
 - `fix_all_descriptions.py`: Utility script to re-process and clean existing description entries in the database.
 - `verify_db.py`: Helper script to check database connectivity and row counts.
+
+<img width="1901" height="866" alt="image" src="https://github.com/user-attachments/assets/50a33916-8a21-444c-970d-573ed8653420" />
+
