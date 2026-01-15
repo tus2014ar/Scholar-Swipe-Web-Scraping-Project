@@ -63,5 +63,9 @@ The script will:
 - `fix_all_descriptions.py`: Utility script to re-process and clean existing description entries in the database.
 - `verify_db.py`: Helper script to check database connectivity and row counts.
 
-<img width="1901" height="866" alt="image" src="https://github.com/user-attachments/assets/50a33916-8a21-444c-970d-573ed8653420" />
+DB Screenshot:
+
+
+<img width="1885" height="897" alt="image" src="https://github.com/user-attachments/assets/abeba38c-4d52-4b6c-9575-d24d4605ca1e" />
+
 
