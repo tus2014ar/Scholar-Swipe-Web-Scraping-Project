@@ -39,7 +39,7 @@ A Python automated scraping tool designed to extract scholarship opportunities f
     
     *Recommended: Set `DB_PASSWORD` environment variable.*
     ```bash
-    export DB_PASSWORD='your_supabase_password'
+    export DB_PASSWORD='supabase_password'
     ```
 
 ## Usage
